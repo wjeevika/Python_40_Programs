@@ -14,3 +14,4 @@ for i in m.lower():
         c+=1
 
 print(f"{s.capitalize()}, your message has {c} {n}\'s in it.")      # final output
+
